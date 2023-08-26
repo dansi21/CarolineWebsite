@@ -22,7 +22,7 @@
 }
 
 .portfolio-navbar.gradient {
-  background: linear-gradient(180deg, #a25e00 ,3%, #ebeae8);
+  background: linear-gradient(180deg, #27549b ,5%, #050b15);
   color: #fff;
 }
 
@@ -36,7 +36,7 @@
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #e9e9ea;
+  background-color: #050b15;
   background-clip: border-box;
   border: 1px solid rgba(0,0,0,.125);
   border-radius: .25rem;
